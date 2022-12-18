@@ -1,1 +1,2 @@
-# damianorossimath.github.io
+Damiano Rossi
+Researcher at City, University of London
